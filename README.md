@@ -91,3 +91,8 @@ Theres two parts of this project.
   <img src="Halo_Spartan_Database_Img/React website img1.jpg">
 </a>
 <br><br>
+
+
+## Extra
+
+* Note that the .env file is not added with the Halo_Spartan_Database file because it contains user and pass.
